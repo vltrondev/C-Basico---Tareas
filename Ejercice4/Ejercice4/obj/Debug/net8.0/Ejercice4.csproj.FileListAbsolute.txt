@@ -1,0 +1,14 @@
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\bin\Debug\net8.0\Ejercice4.exe
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\bin\Debug\net8.0\Ejercice4.deps.json
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\bin\Debug\net8.0\Ejercice4.runtimeconfig.json
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\bin\Debug\net8.0\Ejercice4.dll
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\bin\Debug\net8.0\Ejercice4.pdb
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.AssemblyInfoInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.AssemblyInfo.cs
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.csproj.CoreCompileInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.dll
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\refint\Ejercice4.dll
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.pdb
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\Ejercice4.genruntimeconfig.cache
+C:\Users\vltrondev\Documents\Homeworks\Ejercice4\Ejercice4\obj\Debug\net8.0\ref\Ejercice4.dll

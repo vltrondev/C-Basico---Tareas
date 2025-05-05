@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vltrondev\\Documents\\Homeworks\\Ejercice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D2786C-E803-4BC6-92E4-47199F5EED41}|Ejercice5\\Ejercice5.csproj|c:\\users\\vltrondev\\documents\\homeworks\\ejercice5\\ejercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D2786C-E803-4BC6-92E4-47199F5EED41}|Ejercice5\\Ejercice5.csproj|solutionrelative:ejercice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vltrondev\\Documents\\Homeworks\\Ejercice5\\Ejercice5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercice5\\Program.cs",
+              "ToolTip": "C:\\Users\\vltrondev\\Documents\\Homeworks\\Ejercice5\\Ejercice5\\Program.cs",
+              "RelativeToolTip": "Ejercice5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T01:06:51.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
