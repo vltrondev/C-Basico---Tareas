@@ -1,0 +1,7 @@
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\bin\Debug\ordena10numeros.exe.config
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\bin\Debug\ordena10numeros.exe
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\bin\Debug\ordena10numeros.pdb
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\obj\Debug\ordena10numeros.csproj.AssemblyReference.cache
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\obj\Debug\ordena10numeros.csproj.CoreCompileInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\obj\Debug\ordena10numeros.exe
+C:\Users\vltrondev\Documents\Homeworks\ordena10numeros\ordena10numeros\obj\Debug\ordena10numeros.pdb

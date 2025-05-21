@@ -12,3 +12,4 @@ C:\Users\vltrondev\Documents\Homeworks\Ejercice2\Ejercice2\obj\Debug\net8.0\refi
 C:\Users\vltrondev\Documents\Homeworks\Ejercice2\Ejercice2\obj\Debug\net8.0\Ejercice2.pdb
 C:\Users\vltrondev\Documents\Homeworks\Ejercice2\Ejercice2\obj\Debug\net8.0\Ejercice2.genruntimeconfig.cache
 C:\Users\vltrondev\Documents\Homeworks\Ejercice2\Ejercice2\obj\Debug\net8.0\ref\Ejercice2.dll
+C:\Users\vltrondev\Documents\Homeworks\Ejercice2\Ejercice2\obj\Debug\net8.0\Ejercice2.sourcelink.json
