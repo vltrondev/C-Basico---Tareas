@@ -1,0 +1,15 @@
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\bin\Debug\net8.0\CalendarioDelMes.exe
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\bin\Debug\net8.0\CalendarioDelMes.deps.json
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\bin\Debug\net8.0\CalendarioDelMes.runtimeconfig.json
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\bin\Debug\net8.0\CalendarioDelMes.dll
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\bin\Debug\net8.0\CalendarioDelMes.pdb
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.AssemblyInfoInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.AssemblyInfo.cs
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.csproj.CoreCompileInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.sourcelink.json
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.dll
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\refint\CalendarioDelMes.dll
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.pdb
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\CalendarioDelMes.genruntimeconfig.cache
+C:\Users\vltrondev\Documents\Homeworks\CalendarioDelMes\CalendarioDelMes\obj\Debug\net8.0\ref\CalendarioDelMes.dll

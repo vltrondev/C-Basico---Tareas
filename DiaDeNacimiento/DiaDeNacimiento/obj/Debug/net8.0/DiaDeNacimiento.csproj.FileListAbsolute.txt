@@ -1,0 +1,15 @@
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\bin\Debug\net8.0\DiaDeNacimiento.exe
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\bin\Debug\net8.0\DiaDeNacimiento.deps.json
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\bin\Debug\net8.0\DiaDeNacimiento.runtimeconfig.json
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\bin\Debug\net8.0\DiaDeNacimiento.dll
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\bin\Debug\net8.0\DiaDeNacimiento.pdb
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.AssemblyInfoInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.AssemblyInfo.cs
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.csproj.CoreCompileInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.sourcelink.json
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.dll
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\refint\DiaDeNacimiento.dll
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.pdb
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\DiaDeNacimiento.genruntimeconfig.cache
+C:\Users\vltrondev\Documents\Homeworks\DiaDeNacimiento\DiaDeNacimiento\obj\Debug\net8.0\ref\DiaDeNacimiento.dll

@@ -1,0 +1,15 @@
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\bin\Debug\net8.0\InicialNombre.exe
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\bin\Debug\net8.0\InicialNombre.deps.json
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\bin\Debug\net8.0\InicialNombre.runtimeconfig.json
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\bin\Debug\net8.0\InicialNombre.dll
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\bin\Debug\net8.0\InicialNombre.pdb
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.AssemblyInfoInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.AssemblyInfo.cs
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.csproj.CoreCompileInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.sourcelink.json
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.dll
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\refint\InicialNombre.dll
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.pdb
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\InicialNombre.genruntimeconfig.cache
+C:\Users\vltrondev\Documents\Homeworks\InicialNombre\InicialNombre\obj\Debug\net8.0\ref\InicialNombre.dll
