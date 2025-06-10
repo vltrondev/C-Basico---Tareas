@@ -1,0 +1,15 @@
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\bin\Debug\net8.0\Gymnasio.exe
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\bin\Debug\net8.0\Gymnasio.deps.json
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\bin\Debug\net8.0\Gymnasio.runtimeconfig.json
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\bin\Debug\net8.0\Gymnasio.dll
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\bin\Debug\net8.0\Gymnasio.pdb
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.AssemblyInfoInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.AssemblyInfo.cs
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.csproj.CoreCompileInputs.cache
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.sourcelink.json
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.dll
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\refint\Gymnasio.dll
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.pdb
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\Gymnasio.genruntimeconfig.cache
+C:\Users\vltrondev\Documents\Homeworks\Gymnasio\Gymnasio\obj\Debug\net8.0\ref\Gymnasio.dll
